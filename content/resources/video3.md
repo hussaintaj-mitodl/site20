@@ -1,6 +1,6 @@
 ---
 content_type: resource
-description: ''
+description: METADATA
 file: /media/gdrive_uploads/site20/1D8Eavq9RuDlR_-_0-HiHjE5hZNAX3pTT/video3.mov
 file_type: video/quicktime
 image_metadata:
