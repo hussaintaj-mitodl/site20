@@ -2,7 +2,9 @@
   "term": "Spring",
   "year": "2022",
   "level": [
-    "Undergraduate"
+    "Undergraduate",
+    "Graduate",
+    "Non Credit"
   ],
   "topics": [
     [
@@ -24,7 +26,7 @@
   "department_numbers": [
     "20"
   ],
-  "extra_course_numbers": "20",
+  "extra_course_numbers": "",
   "primary_course_number": "20",
   "course_image_thumbnail": {
     "content": "",
