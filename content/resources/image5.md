@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/site20/image5.png
+file: /media/courses/20-site20-spring-2022/image5.png
 file_type: image/png
 image_metadata:
   caption: ''
